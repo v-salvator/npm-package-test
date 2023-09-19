@@ -1,10 +1,10 @@
 {
-  "name": "npm-package-test",
+  "name": "@v-salvator/npm-package-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "publishConfig": {
     "@v-salvator:registry": "https://npm.pkg.github.com"
